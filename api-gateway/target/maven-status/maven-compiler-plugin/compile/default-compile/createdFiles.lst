@@ -1,0 +1,2 @@
+com\movie\ticket\booking\system\api\gateway\BookingControllerFallbackApi.class
+com\movie\ticket\booking\system\api\gateway\MovieTicketBookingSystemApiGateway.class
